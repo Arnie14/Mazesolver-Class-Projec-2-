@@ -1,5 +1,5 @@
 # Mazesolver-Class-Projec-2-
-This assignment was locked Aug 2 at 11:59pm.
+
 Traverse a maze recursively. Your program MUST read from a file called "maze.dat".
 
 A sample  (Links to an external site.)maze has been provided. The actual maze will be
